@@ -1,81 +1,35 @@
 {
   "playlistCollection": [
     {
-      "id" : "01",
-      "title": "Beethoven Sonatas",
-      "duration": 35,
-      "songs": [
-        {
-          "id": "011",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven",
-          "duration": "3",
-          "genre": "classical"
-        },
-        {
-          "id": "012",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven",
-          "duration": "5",
-          "genre": "classical"
-        },
-        {
-          "id": "013",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven",
-          "duration": "6",
-          "genre": "classical"
-        }
-      ]
+      "id": "d2c654a0-1973-11ed-aaf3-5f4f81c5227b",
+      "title": "big hits",
+      "songs": []
     },
     {
-      "id": "02",
-      "title": "Beethoven Concertos",
-      "duration": 23,
-      "songs": [
-        {
-          "id": "021",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven",
-          "duration": "8",
-          "genre": "classical"
-        },
-        {
-          "id": "022",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven",
-          "duration": "7",
-          "genre": "classical"
-        },
-        {
-          "id": "023",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven",
-          "duration": "8",
-          "genre": "classical"
-        }
-      ]
+      "id": "3b81ddd0-1978-11ed-a744-6fb9f93aa330",
+      "userid": "ff6a1870-1973-11ed-aaf3-5f4f81c5227b",
+      "title": "barts songs",
+      "songs": []
     },
     {
-    "id": "03",
-    "title": "Beethoven Variations",
-      "duration": 67,
+      "id": "46cf8b10-1978-11ed-a744-6fb9f93aa330",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "homer songs",
       "songs": [
         {
-          "id": "031",
-          "title": "Opus 34 Six variations on a theme in F major",
-          "artist": "Beethoven",
-          "duration": "13",
-          "genre": "classical"
-        },
-        {
-          "id": "032",
-          "title": "Opus 120 Thirty-three variations on a waltz",
-          "artist": "Beethoven",
-          "duration": "9",
-          "genre": "classical"
+          "id": "57a9be40-197a-11ed-942c-892d88ac4db1",
+          "title": "no7",
+          "artist": "beethoven",
+          "duration": 19
         }
-      ]
+      ],
+      "duration": 17
+    },
+    {
+      "id": "530e00f0-1978-11ed-a744-6fb9f93aa330",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "title": "marge 1st playlist",
+      "songs": []
     }
   ]
 }
